@@ -37,7 +37,7 @@ _Work in progress_
 - `cp` [archivo/directorio origen] [archivo/directorio destino]: copia un archivo o directorio desde un origen a un destino
 - `cp -r` [directorio origen] [directorio destino]: copia un directorio y todos sus directorios hijos de forma recursiva
 - `open [-a APP] [ FILE | DIRECTORY ]`: abre el (archivo o directorio) con la aplicación por defecto en el sistema operativo, si se manda la bandera `-a` usará la APP para abrirlo
-- `grep -r -e [loque quieres busacar]`: busca un archivo o conjunto de archivos
+- `grep -r -e [loque quieres buscar]`: busca un archivo o conjunto de archivos
 la palabra deseada.
 
 ### Comodines
